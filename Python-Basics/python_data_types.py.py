@@ -172,7 +172,8 @@ Exercise
 value will be telephone number
 """
 
-d = {'payton': 'An interpreted, object-oriented programming language'}# I did not understand this task
+d = {'payton': 'An interpreted, object-oriented programming language'}
+del d['payton']
 
 dictionary = {("Vlasta", "Rencova"): 123456789}
 
