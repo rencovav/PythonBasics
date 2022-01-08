@@ -1,6 +1,3 @@
-import unittest
-
-
 def positive_sum(in_list):
     """Adds together the members of a list.
  Args:
